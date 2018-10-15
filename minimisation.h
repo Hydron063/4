@@ -48,7 +48,7 @@ std::vector<double> gradient(const std::vector<double> &x)
 }
 
 std::vector<double> minMultidim(std::vector<double> x, double eps1, double eps2)//sas
-{
+{//ee
     std::vector<double> xPrec;
     bool term = false;
     int pas = 0;
