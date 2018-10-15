@@ -8,7 +8,7 @@
 //calcule la fonction à l'étude
 double f(std::vector<double> x);
 
-//trouve le n minimum pour une précison donnée (pour Fibonacci)
+//trouve le n minimum pour une précison donnée (pour la méthode Fibonacci)
 void recherche(const std::vector<double> &a, std::vector<double> &b, double eps, long long int &fib1,
                long long int &fib2,
                long long int &fib3, long long int &n);

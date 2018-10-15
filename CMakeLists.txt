@@ -3,4 +3,4 @@ project(4)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(4 main.cpp minimisation.h Germain.h)
+add_executable(A main.cpp minimisation.h)
