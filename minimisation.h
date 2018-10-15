@@ -44,7 +44,7 @@ std::vector<double> gradient(const std::vector<double> &x)
     std::cout <<std::endl<< "Gradient. "<<std::endl;
     demontrer(x);
     demontrer(s);
-    return s;
+    return s;//--
 }
 
 std::vector<double> minMultidim(std::vector<double> x, double eps1, double eps2)
